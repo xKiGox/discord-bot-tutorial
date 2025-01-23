@@ -1,0 +1,16 @@
+{
+  "name": "robohinsch",
+  "version": "1.0.0",
+  "description": "Discord Bot for Zockerrunden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Hinsch",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  },
+  "type": "commonjs"
+}
